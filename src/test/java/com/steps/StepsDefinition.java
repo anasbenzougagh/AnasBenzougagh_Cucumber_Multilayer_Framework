@@ -1,2 +1,5 @@
-package com.library.steps;public class StepsDefinition {
+package com.steps;
+
+public class StepsDefinition {
+
 }
